@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ankit Chandola! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" align='right'>
+<img src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" align='right' width="200">
 <em>4th year student at <a href=https://adgitmdelhi.ac.in">Dr.Akhilesh Das Gupta Institute of Technology & management</a><br><br>
   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Javascript developer intern at <a href="https://www.thetannmanngaadi.org">The Tann Mann Gadi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
