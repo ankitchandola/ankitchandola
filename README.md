@@ -10,3 +10,18 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+  
+  
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class ReactDeveloper:
+    def __init__(self):
+        self.name = "Ankit Chandola"
+        self.role = "React Developer"
+
+
+me = ReactDeveloper()
+```
