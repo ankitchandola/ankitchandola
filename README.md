@@ -1,10 +1,10 @@
-<h2> Hi, Ankit Chandola! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Ankit Chandola! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href=https://adgitmdelhi.ac.in">Dr.Akhilesh Das Gupta Institute of Technology & management</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Javascript developer intern at <a href="https://www.thetannmanngaadi.org">The Tann Mann Gadi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
   
-[![Linkedin: Ankit Chandola](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-chandola-b53a54187/)](https://www.linkedin.com/in/ankit-chandola-b53a54187/)
+[![Linkedin: Ankit Chandola](https://img.shields.io/badge/-ankitchandola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-chandola-b53a54187/)](https://www.linkedin.com/in/ankit-chandola-b53a54187/)
 [![GitHub Ankit Chandola](https://img.shields.io/github/followers/Ankitchandola?label=follow&style=social)](https://github.com/ankitchandola)
 
 
