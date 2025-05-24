@@ -3,12 +3,12 @@
 <img src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" align='right' width="400">
 
 <em>
-</br>Full Stack Developer at <a href="https://hippohomes.com/">Hippo Homes</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with 3 years of professional experience in building scalable and user-friendly applications.
+</br>Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with 4 years of professional experience in building scalable and user-friendly applications.
 </em>
 
 ---
 
-[![Linkedin: Ankit Chandola](https://img.shields.io/badge/-ankitchandola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-chandola-b53a54187/)](https://www.linkedin.com/in/ankit-chandola-b53a54187/)  
+
 [![GitHub Ankit Chandola](https://img.shields.io/github/followers/Ankitchandola?label=follow&style=social)](https://github.com/ankitchandola)
 
 ---
