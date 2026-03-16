@@ -1,19 +1,17 @@
-# Hi, I'm Ankit Chandola! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Hi, I'm Ankit Chandola <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<img src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" align='right' width="400">
+<img src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" align="right" width="350">
 
-<em>
-</br>Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with 4 years of professional experience in building scalable and user-friendly applications.
-</em>
-
----
-
-
-[![GitHub Ankit Chandola](https://img.shields.io/github/followers/Ankitchandola?label=follow&style=social)](https://github.com/ankitchandola)
+Full Stack Developer with **3+ years of professional experience** building scalable web applications and internal tools.  
+I enjoy working across the full stack, focusing on performance, clean architecture, and developer-friendly systems.
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+[![GitHub Follow](https://img.shields.io/github/followers/Ankitchandola?label=Follow&style=social)](https://github.com/Ankitchandola)
+
+---
+
+## 👨‍💻 About Me
 
 ```javascript
 class FullStackDeveloper {
@@ -21,14 +19,22 @@ class FullStackDeveloper {
     this.name = "Ankit Chandola";
     this.role = "Full Stack Developer";
     this.company = "Hippo Homes";
-    this.experience = "3 years";
-    this.specialization = [
+    this.experience = "3+ years";
+
+    this.skills = [
       "React",
+      "Next.js",
       "Node.js",
-      "JavaScript",
       "TypeScript",
-      "MongoDB",
-      "MySQL",
+      "PostgreSQL",
+      "MongoDB"
+    ];
+
+    this.currentFocus = [
+      "Backend Architecture",
+      "AWS Serverless",
+      "System Design",
+      "Performance Optimization"
     ];
   }
 
@@ -43,81 +49,132 @@ console.log(me.greet());
 
 ---
 
-### 🚀 Tech Stack
+# 🚀 Tech Stack
 
-#### 💻 Languages:
+### 💻 Languages
 - JavaScript (ES6+)
 - TypeScript
 - SQL
 
-#### 🌐 Frontend Development:
-- React.js
-- Next.js
-- HTML5 & CSS3
-- TailwindCSS
-- Bootstrap
+### 🌐 Frontend
+- React.js  
+- Next.js  
+- Redux / Zustand  
+- React Query / RTK Query  
+- TailwindCSS  
+- Chakra UI  
 
-#### 🔧 Backend Development:
-- Node.js
-- Express.js
-- RESTful APIs
-- GraphQL
+### 🔧 Backend
+- Node.js  
+- Express.js  
+- REST APIs  
+- GraphQL  
+- Medusa.js  
 
-#### 🛠️ Databases:
-- MongoDB
-- MySQL
-- PostgreSQL
-- Firebase
+### 🗄 Databases
+- PostgreSQL  
+- MongoDB  
+- MySQL  
+- Redis  
 
-#### ⚙️ Tools & Platforms:
-- Git & GitHub
-- Docker
+### ⚙️ Tools
+- Git & GitHub  
+- Docker  
+- Postman  
 - CI/CD (GitHub Actions)
-- Postman
 
-#### 🖥️ Cloud & Hosting:
-- Vercel
-- Netlify
-
----
-
-### 📈 GitHub Stats
-
-[![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitchandola&show_icons=true&theme=radical)](https://github.com/Ankitchandola)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitchandola&layout=compact&theme=radical)](https://github.com/Ankitchandola)
+### ☁️ Cloud & Hosting
+- AWS (Lambda, SQS, S3)  
+- Vercel  
+- Railway  
 
 ---
 
-### 🛠️ Projects
+# 📈 GitHub Stats
 
-Here are some of the exciting projects I have worked on:
-- [**DataSend**](https://datasend.co.uk): Worked on the frontend part of the website built with **Next.js**, creating a seamless and user-friendly interface.
-- [**Hippo Homes E-commerce Website**](https://hippohomes.com): Contributed to the **frontend development** and implemented **backend APIs** for enhanced functionality.
-- [**Yet Another Project**](https://github.com/Ankitchandola/project-link): Brief description of the project.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitchandola&show_icons=true&theme=radical)
 
----
-
-### 🧑‍💻 Contact Me
-
-📫 **Email**: [ankit.chandola@example.com](mailto:ankit.chandola@example.com)  
-💼 **LinkedIn**: [linkedin.com/in/ankit-chandola-b53a54187](https://www.linkedin.com/in/ankit-chandola-b53a54187/)  
-🐦 **Twitter**: [@ankit_chandola](https://twitter.com/ankit_chandola)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitchandola&layout=compact&theme=radical)
 
 ---
 
-### 📝 To Do
-- 🏗️ Deep dive into **AWS services** like S3, EC2, and Lambda.
-- 🛠️ Work on improving DevOps skills.
-- 🌱 Explore advanced **GraphQL** and **WebSocket** implementations.
+# 🛠 Projects
+
+## 🧾 PokeHackZone
+A discovery platform for **Pokémon ROM hacks**.
+
+Features:
+- Structured hack database
+- Advanced filtering system
+- Patch guides and instructions
+- Custom scraping + parsing pipeline
+- Built with **Next.js, TypeScript, MongoDB**
 
 ---
 
-### 🌟 Fun Facts
-- 🎮 Gaming enthusiast in my free time.
-- 🌍 Love exploring new places and cultures.
-- 🚀 Passionate about learning cutting-edge technologies.
-- 📚 Always up for a good book or a challenging coding problem!
+## 🏪 Hippo Store Kiosk System
+Internal kiosk system used in **Hippo retail stores**.
+
+Highlights:
+- Built the application architecture from scratch
+- Optimized UI for in-store workflows
+- Integrated with backend store systems
+
+Tech:
+React • Node.js • REST APIs
 
 ---
 
-> "Stay curious, keep learning, and never stop coding!"
+## 🍳 Kitchen Calculator
+Internal utility tool created on **my first day at Hippo Homes**, still used by the company.
+
+Features:
+- Ingredient and quantity calculations
+- Simple and fast UI for kitchen staff
+- Deployed internally
+
+---
+
+## 🧰 Data Scraping & Parsing Tools
+Built tools that automatically scrape ROM-hack data and convert it into structured datasets.
+
+Capabilities:
+- HTML scraping
+- Content parsing
+- Data normalization
+- Admin correction workflow
+
+---
+
+# 📚 Currently Learning
+
+- AWS Serverless Architecture  
+- Distributed systems fundamentals  
+- Advanced PostgreSQL patterns  
+- Backend scalability techniques  
+
+---
+
+# 📫 Contact
+
+**Email**  
+ankit.chandola@example.com  
+
+**LinkedIn**  
+https://www.linkedin.com/in/ankit-chandola-b53a54187  
+
+**Twitter**  
+https://twitter.com/ankit_chandola  
+
+---
+
+# 🌟 Fun Facts
+
+- I enjoy building **tools that solve real workflow problems**.  
+- Interested in **backend architecture and system design**.  
+- Building side projects like **PokeHackZone** to experiment with ideas.  
+- Always exploring ways to improve developer workflows and performance.
+
+---
+
+> Stay curious. Keep building.
